@@ -5,7 +5,7 @@
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=AB39F7&background=08007C6D&width=600&lines=Hallo%2C+selamat+datang+di+github+Raihan+Ramadhani.;Saya+adalah+junior+backend%F0%9F%91%8B;Saya+sangat+suka+dunia+pemrograman;Saya+suka+dunia+komputer+dari+tahun+2020" alt="Typing SVG" /></a>
 
-<img src="https://media.giphy.com/media/3o6Zt481isNVuQI1l6/giphy.gif" width="100%" height="6px"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:fc466b,100:3f5efb&height=100&section=header"/>
 
 ## 🧠 About Me
 
