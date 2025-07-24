@@ -5,11 +5,9 @@
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=1000&color=09F700&background=08007C6D&width=600&lines=Hallo%2C+selamat+datang+di+github+Raihan+Ramadhani.;Saya+adalah+junior+backend%F0%9F%91%8B;Saya+sangat+suka+dunia+pemrograman;Saya+suka+dunia+komputer+dari+tahun+2020" alt="Typing SVG" /></a>
 
-![RGB Line](https://raw.githubusercontent.com/rajatdiptabiswas/rainbow-line/main/rainbow.gif)
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:fc466b,100:3f5efb&height=100&section=header"/>
 
-## 🧠 About Me
+## 👤 About Me
 
 - 🔭 I'm currently working on **Digital Product Templates & Minecraft Server Dev Services**
 - 🌱 Always learning **UI/UX**, **Motion Design**, and **Backend Magic**
