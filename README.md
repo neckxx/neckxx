@@ -34,7 +34,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yourusername&theme=react-dark" width="100%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=neckxx&theme=react-dark" width="100%"/>
 </p>
 
 ---
