@@ -7,7 +7,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:fc466b,100:3f5efb&height=100&section=header"/>
 
-## <i class="fa fa-address-book-o" aria-hidden="true"></i> About Me
+<i class="fa fa-address-book-o" aria-hidden="true"></i> ## About Me
 
 - 🔭 I'm currently working on **Digital Product Templates & Minecraft Server Dev Services**
 - 🌱 Always learning **UI/UX**, **Motion Design**, and **Backend Magic**
