@@ -22,7 +22,7 @@
 
 <p align="center">
   <a href="https://instagram.com/hanz_xyz14"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" /></a>
-  <a href="https://lynk.id/neckxx"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=Linkedin&logoColor=white" /></a>
+  <a href="https://lynk.id/neckxx"><img src="https://img.shields.io/badge/LynkID-%230077B5.svg?style=for-the-badge&logo=LynkID&logoColor=white" /></a>
   <a href="mailto:justhanz858@email.com"><img src="https://img.shields.io/badge/Gmail-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
