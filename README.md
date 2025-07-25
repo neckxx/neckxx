@@ -9,7 +9,7 @@
 
 ## 👤 About Me
 
-- 🔭 I'm currently working on **Digital Product Templates & Minecraft Server Dev Services**
+- 🔭 I'm currently working on **SA-MP Developer & Minecraft Server Developer Services**
 - 🌱 Always learning **UI/UX**, **Motion Design**, and **Backend Magic**
 - 👯 I’m looking to collaborate on **open-source design tools**
 - ⚡ Fun fact: I make designs that *move & speak* (with code).
@@ -42,6 +42,7 @@
 ## 🔗 Project
 
 - 🔹 [Minecraft Server](https://website.terranesia.my.id)
+- 🔹 [Discord Server](https://discord.gg/Q82uqHtDTW)
 ---
 
 <p align="center">
