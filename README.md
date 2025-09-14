@@ -1,7 +1,7 @@
 <!-- GITHUB PROFILE README -->
 
 <h1 align="center">Hi 👋, I'm Raihan Ramadhani</h1>
-<h3 align="center">👨‍💻 Digital Creator | 🧩 UI/UX Enthusiast | 💡 Creative Coder</h3>
+<h3 align="center">👨‍💻 Junior Backend | 🧩 UI/UX Enthusiast | 💡 Creative Coder</h3>
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=1000&color=09F700&background=08007C6D&width=600&lines=Hallo%2C+selamat+datang+di+github+Raihan+Ramadhani.;Saya+adalah+junior+backend%F0%9F%91%8B;Saya+sangat+suka+dunia+pemrograman;Saya+suka+dunia+komputer+dari+tahun+2020" alt="Typing SVG" /></a>
 
