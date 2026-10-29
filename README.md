@@ -47,7 +47,7 @@
 
 ## GitHub Statistics
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=neckxx1)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=neckxx)](https://git.io/streak-stats)
 
 ## Featured Projects
 
