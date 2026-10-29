@@ -47,14 +47,7 @@
 
 ## GitHub Statistics
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=neckxx&show_icons=true&theme=radical" width="49%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=neckxx&theme=radical" width="49%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=neckxx&theme=react-dark" width="100%"/>
-</p>
+[![GitHub Streak](https://streak-stats.demolab.com/?user=neckxx1)](https://git.io/streak-stats)
 
 ## Featured Projects
 
