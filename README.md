@@ -1,50 +1,96 @@
-<!-- GITHUB PROFILE README -->
 
-<h1 align="center">Hi 👋, I'm Raihan Ramadhani</h1>
-<h3 align="center">👨‍💻 Junior Backend | 🧩 UI/UX Enthusiast | 💡 Creative Coder</h3>
+<!--
+  GitHub Profile README
+  Author: Raihan Ramadhani (@neckxx)
+-->
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=1000&color=09F700&background=08007C6D&width=600&lines=Hallo%2C+selamat+datang+di+github+Raihan+Ramadhani.;Saya+adalah+junior+backend%F0%9F%91%8B;Saya+sangat+suka+dunia+pemrograman;Saya+suka+dunia+komputer+dari+tahun+2020" alt="Typing SVG" /></a>
+<div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:fc466b,100:3f5efb&height=100&section=header"/>
+# Raihan Ramadhani
 
-## 👤 About Me
+### Junior Backend Developer | UI/UX Enthusiast | Creative Coder
 
-- 🔭 I'm currently working on **SA-MP Developer & Minecraft Server Developer Services**
-- 🌱 Always learning **UI/UX**, **Motion Design**, and **Backend Magic**
-- 👯 I’m looking to collaborate on **open-source design tools**
-- ⚡ Fun fact: I make designs that *move & speak* (with code).
+Building digital experiences through code, design, and creativity.
+
+<p>
+  <a href="https://github.com/neckxx">
+    <img src="https://img.shields.io/badge/GitHub-neckxx-181717?style=flat-square&logo=github" alt="GitHub"/>
+  </a>
+  <a href="https://instagram.com/hanz_xyz14">
+    <img src="https://img.shields.io/badge/Instagram-hanz__xyz14-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
+  <a href="https://lynk.id/neckxx">
+    <img src="https://img.shields.io/badge/Lynk.id-My%20Links-2563EB?style=flat-square" alt="Lynk.id"/>
+  </a>
+</p>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F172A,100:2563EB&height=3" width="100%"/>
+
+</div>
+
+## About Me
+
+Hello! I'm **Raihan Ramadhani**, a developer interested in building
+reliable backend systems and creating engaging digital experiences.
+
+- 💻 Currently working on **SA-MP and Minecraft server development services**
+- 🌱 Exploring **backend development, UI/UX design, and motion design**
+- 🎨 Interested in the intersection of **technology and visual creativity**
+- 🤝 Open to collaborating on **open-source projects and creative tools**
+- 🚀 Always learning, building, and improving my skills
+
+## Tech Interests
+
+<p>
+  <img src="https://img.shields.io/badge/Backend-Development-2563EB?style=flat-square" alt="Backend Development"/>
+  <img src="https://img.shields.io/badge/UI%2FUX-Design-7C3AED?style=flat-square" alt="UI/UX Design"/>
+  <img src="https://img.shields.io/badge/Motion-Design-DB2777?style=flat-square" alt="Motion Design"/>
+  <img src="https://img.shields.io/badge/Game-Server%20Development-16A34A?style=flat-square" alt="Game Server Development"/>
+</p>
+
+## GitHub Statistics
+
+<div align="center">
+
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=neckxx&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" alt="GitHub Stats"/>
+
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=neckxx&layout=compact&hide_border=true&theme=transparent" alt="Top Languages"/>
+
+  <br/>
+
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=neckxx&theme=transparent&hide_border=true" alt="GitHub Contribution Streak" width="70%"/>
+
+</div>
+
+## Featured Projects
+
+### Minecraft Server
+Development and server-related services for Minecraft communities.
+
+- 🌐 Website: [terranesia.my.id](https://website.terranesia.my.id)
+
+### SA-MP Development
+Custom development services and projects for San Andreas Multiplayer.
+
+### Community
+Connect with the community and stay updated.
+
+- 💬 Discord: [Join the Server](https://discord.gg/Q82uqHtDTW)
+
+## Let's Connect
+
+Interested in collaboration, development, or creative projects?
+
+- 📸 Instagram: [@hanz_xyz14](https://instagram.com/hanz_xyz14)
+- 🔗 Links: [lynk.id/neckxx](https://lynk.id/neckxx)
+- 📧 Email: [justhanz858@email.com](mailto:justhanz858@email.com)
+
+<div align="center">
 
 ---
 
-## 🌐 Connect With Me
+*“Build with purpose. Design with intention. Keep learning.”*
 
-<p align="center">
-  <a href="https://instagram.com/hanz_xyz14"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" /></a>
-  <a href="https://lynk.id/neckxx"><img src="https://img.shields.io/badge/LynkID-%230077B5.svg?style=for-the-badge&logo=LynkID&logoColor=white" /></a>
-  <a href="mailto:justhanz858@email.com"><img src="https://img.shields.io/badge/Gmail-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-</p>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:2563EB,100:0F172A&height=3" width="100%"/>
 
----
-
-## 📈 Stats & Activity
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=neckxx&show_icons=true&theme=radical" width="49%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=neckxx&theme=radical" width="49%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=neckxx&theme=react-dark" width="100%"/>
-</p>
-
----
-
-## 🔗 Project
-
-- 🔹 [Minecraft Server](https://website.terranesia.my.id)
-- 🔹 [Discord Server](https://discord.gg/Q82uqHtDTW)
----
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:fc466b,100:3f5efb&height=120&section=footer"/>
-</p>
+</div>
