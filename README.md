@@ -16,11 +16,8 @@ Building digital experiences through code, design, and creativity.
   <a href="https://github.com/neckxx">
     <img src="https://img.shields.io/badge/GitHub-neckxx-181717?style=flat-square&logo=github" alt="GitHub"/>
   </a>
-  <a href="https://instagram.com/hanz_xyz14">
+  <a href="https://instagram.com/1dlehanvrs">
     <img src="https://img.shields.io/badge/Instagram-hanz__xyz14-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram"/>
-  </a>
-  <a href="https://lynk.id/neckxx">
-    <img src="https://img.shields.io/badge/Lynk.id-My%20Links-2563EB?style=flat-square" alt="Lynk.id"/>
   </a>
 </p>
 
@@ -50,17 +47,14 @@ reliable backend systems and creating engaging digital experiences.
 
 ## GitHub Statistics
 
-<div align="center">
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=neckxx&show_icons=true&theme=radical" width="49%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=neckxx&theme=radical" width="49%" />
+</p>
 
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=neckxx&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" alt="GitHub Stats"/>
-
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=neckxx&layout=compact&hide_border=true&theme=transparent" alt="Top Languages"/>
-
-  <br/>
-
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=neckxx&theme=transparent&hide_border=true" alt="GitHub Contribution Streak" width="70%"/>
-
-</div>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=neckxx&theme=react-dark" width="100%"/>
+</p>
 
 ## Featured Projects
 
@@ -75,14 +69,13 @@ Custom development services and projects for San Andreas Multiplayer.
 ### Community
 Connect with the community and stay updated.
 
-- 💬 Discord: [Join the Server](https://discord.gg/Q82uqHtDTW)
+- 💬 Discord: [Join the Server](https://discord.gg/g9MAV89pJh)
 
 ## Let's Connect
 
 Interested in collaboration, development, or creative projects?
 
-- 📸 Instagram: [@hanz_xyz14](https://instagram.com/hanz_xyz14)
-- 🔗 Links: [lynk.id/neckxx](https://lynk.id/neckxx)
+- 📸 Instagram: [@hanz_xyz14](https://instagram.com/1dlehanvrs)
 - 📧 Email: [justhanz858@email.com](mailto:justhanz858@email.com)
 
 <div align="center">
