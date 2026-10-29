@@ -75,7 +75,7 @@ Connect with the community and stay updated.
 
 Interested in collaboration, development, or creative projects?
 
-- 📸 Instagram: [@hanz_xyz14](https://instagram.com/1dlehanvrs)
+- 📸 Instagram: [@1dlehanvrs](https://instagram.com/1dlehanvrs)
 - 📧 Email: [justhanz858@email.com](mailto:justhanz858@email.com)
 
 <div align="center">
