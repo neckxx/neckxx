@@ -25,7 +25,7 @@
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=200&size=10&pause=1000&color=00F3F7&background=10016222&width=435&lines=Building+digital+experiences+through+code%2C+design%2C+and+creativity." alt="Typing SVG" /></a>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:fc466b,100:3f5efb&height=100&section=header"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F172A,100:2563EB&height=3" width="100%"/>
 
 - 💻 Currently working on **SA-MP and Minecraft server development services**
 - 🌱 Exploring **backend development, UI/UX design, and motion design**
