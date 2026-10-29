@@ -17,7 +17,7 @@ Building digital experiences through code, design, and creativity.
     <img src="https://img.shields.io/badge/GitHub-neckxx-181717?style=flat-square&logo=github" alt="GitHub"/>
   </a>
   <a href="https://instagram.com/1dlehanvrs">
-    <img src="https://img.shields.io/badge/Instagram-hanz__xyz14-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram"/>
+    <img src="https://img.shields.io/badge/Instagram-1dlehanvrs-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
 </p>
 
